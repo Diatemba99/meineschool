@@ -1,1 +1,1 @@
-# meineschool
+# hosting_folder
